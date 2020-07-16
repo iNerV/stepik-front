@@ -38,7 +38,7 @@
     "eslint-plugin-jest": "^22.1.2",
     "eslint-plugin-sonarjs": "^0.2.0",
     "glob-all": "^3.1.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.19",
     "moment": "^2.22.2",
     "node-sass": "^4.9.0",
     "plural-ru": "^2.0.1",
